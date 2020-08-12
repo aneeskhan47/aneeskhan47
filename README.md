@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anees Khan</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A passionate full-stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneeskhan47" alt="aneeskhan47" /> </p>
 
