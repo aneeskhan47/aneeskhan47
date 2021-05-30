@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/lordgamer2354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="lordgamer2354" height="30" width="40" /></a>
-<a href="https://twitter.com/kingkhan2388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="kingkhan2388" height="30" width="40" /></a>
+<a href="https://codepen.io/lordgamer2354" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/codepen/codepen-plain.svg" alt="lordgamer2354" height="30" width="40" /></a>
+<a href="https://twitter.com/kingkhan2388" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" alt="kingkhan2388" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
