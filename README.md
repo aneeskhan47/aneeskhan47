@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aneeskhan47" alt="aneeskhan47" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://aneescoder.com/](http://aneescoder.com/)
+- 👨‍💻 All of my projects are available at [https://aneeskhan47.github.io](Here)
 
 - 📫 How to reach me **kingkhan2388@gmail.com**
 
